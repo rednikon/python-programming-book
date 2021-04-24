@@ -1,4 +1,4 @@
-# pg. 74 Mathematical expressions
+# pg. 76, problem 1: Mathematical expressions
 
 import math
 
